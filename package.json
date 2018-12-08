@@ -1,0 +1,20 @@
+{
+  "name": "sample-go-app",
+  "version": "1.0.0",
+  "description": "Sample Go Web App with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upgundecha/sample-go-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upgundecha/sample-go-app/issues"
+  },
+  "homepage": "https://github.com/upgundecha/sample-go-app#readme"
+}
